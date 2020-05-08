@@ -1,5 +1,5 @@
 FROM ubuntu
-MAINTAINER Bitworks Software info@bitworks.software
+MAINTAINER pratik sonavane
 
 EXPOSE 80
 
